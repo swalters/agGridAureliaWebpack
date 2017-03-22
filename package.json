@@ -14,8 +14,7 @@
   },
   "dependencies": {
     "aurelia-bootstrapper": "^2.1.0",
-    "ag-grid": "^8.2.0",
-    "ag-grid-aurelia": "^8.2.0"
+    "ag-grid": "^8.2.0"
   },
   "scripts": {
     "web": "webpack-dev-server --hot --inline"
